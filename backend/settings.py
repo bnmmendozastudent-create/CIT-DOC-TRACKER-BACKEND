@@ -160,6 +160,6 @@ SIMPLE_JWT = {
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://127.0.0.1:3000",
-    "https://your-project.vercel.app",  # Update with your Vercel domain
+    "https://cit-doc-tracker-frontend-wi5t.vercel.app/",  # Update with your Vercel domain
 ]
 CORS_ALLOW_CREDENTIALS = True   
